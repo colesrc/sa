@@ -6,4 +6,4 @@ NOTE: This bypasses the languagefilter for Stick Arena, so i suggest you not use
 
 Also... it's connecting VIA tor on 127.0.0.1:9050 so if you're not using TOR you must use your own proxy or public ipaddress (bad idea if you want to get banned...lols)
 
-Input youre desired IP & PORT in the lines "socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, '127.0.0.1', 9050)"
+Input your desired IP & PORT in the lines "socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, '127.0.0.1', 9050)"
