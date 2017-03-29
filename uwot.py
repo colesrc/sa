@@ -1,6 +1,6 @@
 ###################################
-# File name: uwot                #
-# Author: Cole Woods             #                 
+# File name: creator                #
+# Author: Anubis            #                 
 #################################
 
 
